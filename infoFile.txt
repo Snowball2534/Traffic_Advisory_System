@@ -1,0 +1,40 @@
+1
+New_York
+New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that's among the world's major commercial, financial and cultural centers.
+Central Park, The Museum of Modern Art, Statue of Liberty National Monument
+2
+Los_Angeles
+Los Angeles is a sprawling Southern California city and the center of the nation's film and television industry. Near its iconic Hollywood sign, studios such as Paramount Pictures, Universal and Warner Brothers offer behind-the-scenes tours.
+The Getty, Universal Studios Hollywood, Santa Monica Pier
+3
+Chicago
+Chicago, on Lake Michigan in Illinois, is among the largest cities in the U.S. Famed for its bold architecture, it has a skyline punctuated by skyscrapers such as the iconic John Hancock Center, 1,451-ft. Willis Tower (formerly the Sears Tower) and the neo-Gothic Tribune Tower.
+The Art Institute of Chicago, Field Museum
+4
+Houston
+Houston is a large metropolis in Texas, extending to Galveston Bay. It's closely linked with the Space Center Houston, the coastal visitor center at NASA's astronaut training and flight control complex.
+The Museum of Fine Arts, Houston Zoo, Space Center Houston
+5
+San_Diego
+San Diego is a city on the Pacific coast of California known for its beaches, parks and warm climate. Immense Balboa Park is the site of the renowned San Diego Zoo, as well as numerous art galleries, artist studios, museums and gardens.
+San Diego Zoo, Balboa Park, SeaWorld San Diego
+6
+Seattle
+Seattle, a city on Puget Sound in the Pacific Northwest, is surrounded by water, mountains and evergreen forests, and contains thousands of acres of parkland.
+Space Needle, Museum of Pop Culture, Chihuly Garden and Glass
+7
+Boston
+Boston, officially the City of Boston, is the capital and most populous city of the Commonwealth of Massachusetts in the United States and 21st most populous city in the country.
+Museum of Science, New England Aquarium
+8
+Dallas
+Dallas, a modern metropolis in north Texas, is a commercial and cultural hub of the region.
+Dallas Museum of Art, The Dallas Arboretum and Botanical Garden
+9
+Phoenix
+Phoenix is the capital of the southwestern U.S. state of Arizona. Known for its year-round sun and warm temperatures, it anchors a sprawling, multicity metropolitan area known as the Valley of the Sun.
+Desert Botanical Garden, Phoenix Art Museum, Heard Museum
+10
+San_Jose
+San Jose is a large city surrounded by rolling hills in Silicon Valley, a major technology hub in California's Bay Area.
+Winchester Mystery House, California's Great America, The Tech Interactive
